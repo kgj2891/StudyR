@@ -65,3 +65,5 @@ salt <- 10 # mg
 water <- 100 # ml
 result <- (salt / (salt / water))
 cat('소금 =', salt, 'mg, 물 =', water, 'ml: 농도 =', result, '%')
+
+
